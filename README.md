@@ -7,7 +7,7 @@
 - 머지된 브랜치 제거
   - `git branch -D inkyojeong`
 - `git remote add [저장소_별칭] [base_저장소]`
-  - ex) `upstream git remote add upstream https://github.com/ingg-git/mission2.git`
+  - ex) `git remote add upstream https://github.com/ingg-git/mission2.git`
 - 내 브랜치 가져오기(갱신)
   - `git fetch upstream inkyojeong`
 - rebase로 동기화
